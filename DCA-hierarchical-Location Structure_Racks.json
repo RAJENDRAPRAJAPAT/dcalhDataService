@@ -1,0 +1,361 @@
+{
+   "id" : "3fc115d7-ce85-4356-b693-a208d14de045",
+   "structureType" : "hierarchical",
+   "structureName" : "Location",
+   "name" : "Location Stucture",
+   
+   "children" : [
+   { 
+       "nodename" : "America",
+	   "objectid" : "5031ad00-012c-0000-0000-america134",
+	   
+	    "children" : [
+      
+      {
+         "nodename" : "ABB Innovation Centre1",
+		 "objectid" : "5031ad00-012c-0000-0000-000abbidcsd134",
+         "children" : [
+            {
+               "nodename" : "1-st floor",
+               "objectid" : "5031ad00-012c-0000-0000-000000000133",
+               "children" : [
+                  {
+                     "nodename" : "RnD Lab",
+                     "objectid" : "5031ad00-012c-0000-0000-000000000134",
+                     "children" : [
+                        {
+                           "nodename" : "Rack1",
+                           "objectid" : "5031ad00-012c-0000-0000-00000000124a",
+                           "children" : [
+                              {
+                                 "nodename" : "server1",
+                                 "objectid" : "5031ad00-012c-0000-0000-00000000114a"
+                              },
+                              {
+                                 "nodename" : "server2",
+                                 "objectid" : "5031ad00-012c-0000-0000-00000000004b"
+                              },
+                              {
+                                 "nodename" : "server3",
+                                 "objectid" : "5031ad00-012c-0000-0000-00000000004c"
+                              }
+                           ]
+                        },
+                        {
+                           "nodename" : "CAB-R2-1644",
+                           "objectid" : "5031ad00-012c-0000-0000-00003211644b",
+                           "children" : [
+                              {
+                                 "nodename" : "server1",
+                                 "objectid" : "5031ad00-012c-0000-0000-00000000004d"
+                              }
+                           ]
+                        },
+                        {
+                           "nodename" : "CAB-R2-1645",
+                           "objectid" : "5031ad00-012c-0000-0000-00000016454c",
+                           "children" : [
+                              {
+                                 "nodename" : "server1645-1",
+                                 "objectid" : "5031ad00-012c-0000-0000-00000000004a"
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "nodename" : "RoomA1",
+                     "objectid" : "5031ad00-012c-0000-0000-0000RoomA14b",
+                     "children" : [
+                        {
+                           "nodename" : "Rack1",
+                           "objectid" : "5031ad00-012c-0000-0000-000000Rack14a"
+                        },
+                        {
+                           "nodename" : "CAB-R2-1649",
+                           "objectid" : "5031ad00-012c-0000-0000-00000016494b"
+                        },
+                        {
+                           "nodename" : "CAB-R2-1637",
+                           "objectid" : "5031ad00-012c-0000-0000-0000016374c"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "nodename" : "2nd floor",
+               "objectid" : "5031ad00-012c-0000-0000-000000000003",
+               "children" : [
+                  {
+                     "nodename" : "Room1",
+                     "objectid" : "5031ad00-012c-0000-0000-000000000004"
+                  }
+               ]
+            }
+         ]
+      },
+	  
+	  
+	   {
+         "nodename" : "ABB Innovation Centre2",
+		 "objectid" : "5031ad00-012c-0000-0000-000abbidc2134",
+         "children" : [
+            {
+               "nodename" : "3-rd floor",
+               "objectid" : "5031ad00-012c-0000-0000-00000003rd133",
+               "children" : [
+                  {
+                     "nodename" : "RnD Lab 3",
+                     "objectid" : "5031ad00-012c-0000-0000-000000lab3134",
+                     "children" : [
+                        {
+                           "nodename" : "Rack1",
+                           "objectid" : "5031ad00-012c-0000-0000-00000rck1124a",
+                           "children" : [
+                              {
+                                 "nodename" : "server1",
+                                 "objectid" : "5031ad00-012c-0000-0000-0000sr10114a"
+                              },
+                              {
+                                 "nodename" : "server2",
+                                 "objectid" : "5031ad00-012c-0000-0000-000000sr204b"
+                              } 
+                           ]
+                        },
+                        {
+                           "nodename" : "CAB-R2-1644",
+                           "objectid" : "5031ad00-012c-0000-0000-00000001644b",
+                           "children" : [
+                              {
+                                 "nodename" : "server4",
+                                 "objectid" : "5031ad00-012c-0000-0000-00000server4d"
+                              }
+                           ]
+                        },
+                        {
+                           "nodename" : "CAB-R2-1645",
+                           "objectid" : "5031ad00-012c-0000-0000-00032116454c",
+                           "children" : [
+                              {
+                                 "nodename" : "server1645-1",
+                                 "objectid" : "5031ad00-012c-0000-0000-00000054614a"
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "nodename" : "RoomA1",
+                     "objectid" : "5031ad00-012c-0000-0000-9242RoomA14b",
+                     "children" : [
+                        {
+                           "nodename" : "Rack1",
+                           "objectid" : "5031ad00-012c-0000-0000-004820Rack14a"
+                        },
+                        {
+                           "nodename" : "CAB-R2-1649",
+                           "objectid" : "5031ad00-012c-0000-0000-00028316494b"
+                        },
+                        {
+                           "nodename" : "CAB-R2-1637",
+                           "objectid" : "5031ad00-012c-0000-0000-0023716374c"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "nodename" : "2nd floor",
+               "objectid" : "5031ad00-012c-0000-0000-000000012303",
+               "children" : [
+                  {
+                     "nodename" : "Room1",
+                     "objectid" : "5031ad00-012c-0000-0000-00000014564"
+                  }
+               ]
+            }
+         ]
+      }
+	  
+	 ]
+   }
+   ///////////
+   ,
+   {
+       "nodename" : "India",
+	   "objectid" : "5031ad00-012c-0000-0000-India134",
+	    "children" : [
+      
+      {
+         "nodename" : "ABB Innovation Centre Delhi",
+		 "objectid" : "5031ad00-012c-0000-0000-Indiabidcsd134",
+         "children" : [
+            {
+               "nodename" : "1-st floor",
+               "objectid" : "5031ad00-012c-0000-0000-India0000133",
+               "children" : [
+                  {
+                     "nodename" : "RnD Lab",
+                     "objectid" : "5031ad00-012c-0000-0000-India0000134",
+                     "children" : [
+                        {
+                           "nodename" : "Rack1",
+                           "objectid" : "5031ad00-012c-0000-0000-India000124a",
+                           "children" : [
+                              {
+                                 "nodename" : "server1",
+                                 "objectid" : "5031ad00-012c-0000-0000-India000114a"
+                              },
+                              {
+                                 "nodename" : "server2",
+                                 "objectid" : "5031ad00-012c-0000-0000-India000004b"
+                              },
+                              {
+                                 "nodename" : "server3",
+                                 "objectid" : "5031ad00-012c-0000-0000-India000004c"
+                              }
+                           ]
+                        },
+                        {
+                           "nodename" : "CAB-R2-1644",
+                           "objectid" : "5031ad00-012c-0000-0000-India211644b",
+                           "children" : [
+                              {
+                                 "nodename" : "server1",
+                                 "objectid" : "5031ad00-012c-0000-0000-India00004d"
+                              }
+                           ]
+                        },
+                        {
+                           "nodename" : "CAB-R2-1645",
+                           "objectid" : "5031ad00-012c-0000-0000-India16454c",
+                           "children" : [
+                              {
+                                 "nodename" : "server1645-1",
+                                 "objectid" : "5031ad00-012c-0000-0000-India000004a"
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "nodename" : "RoomA1",
+                     "objectid" : "5031ad00-012c-0000-0000-IndiaRoomA14b",
+                     "children" : [
+                        {
+                           "nodename" : "Rack1",
+                           "objectid" : "5031ad00-012c-0000-0000-India0Rack14a"
+                        },
+                        {
+                           "nodename" : "CAB-R2-1649",
+                           "objectid" : "5031ad00-012c-0000-0000-India016494b"
+                        },
+                        {
+                           "nodename" : "CAB-R2-1637",
+                           "objectid" : "5031ad00-R2c-0000-0000-India16374c"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "nodename" : "2nd floor",
+               "objectid" : "5031ad00-012c-0000-0000-India0000003",
+               "children" : [
+                  {
+                     "nodename" : "Room1",
+                     "objectid" : "5031ad00-012c-0000-0000-India0000004"
+                  }
+               ]
+            }
+         ]
+      },
+	  
+	  
+	   {
+         "nodename" : "ABB Innovation Centre Banglore",
+		 "objectid" : "5031ad00-012c-0000-0000-Indiabidc2134",
+         "children" : [
+            {
+               "nodename" : "3-rd floor",
+               "objectid" : "5031ad00-012c-0000-0000-India03rd133",
+               "children" : [
+                  {
+                     "nodename" : "RnD Lab 3",
+                     "objectid" : "5031ad00-012c-0000-0000-India0lab3134",
+                     "children" : [
+                        {
+                           "nodename" : "Rack1",
+                           "objectid" : "5031ad00-012c-0000-0000-Indiarck1124a",
+                           "children" : [
+                              {
+                                 "nodename" : "server1",
+                                 "objectid" : "5031ad00-012c-0000-0000-India610114a"
+                              },
+                              {
+                                 "nodename" : "server2",
+                                 "objectid" : "5031ad00-012c-0000-0000-India0sr204b"
+                              } 
+                           ]
+                        },
+                        {
+                           "nodename" : "CAB-R2-1644",
+                           "objectid" : "5031ad00-012c-0000-0000-India001644b",
+                           "children" : [
+                              {
+                                 "nodename" : "server4",
+                                 "objectid" : "5031ad00-012c-0000-0000-Indiaserver4d"
+                              }
+                           ]
+                        },
+                        {
+                           "nodename" : "CAB-R2-1645",
+                           "objectid" : "5031ad00-012c-0000-0000-India16454c",
+                           "children" : [
+                              {
+                                 "nodename" : "server1645-1",
+                                 "objectid" : "5031ad00-012c-0000-0000-India54614a"
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "nodename" : "RoomA1",
+                     "objectid" : "5031ad00-012c-0000-India-9242RoomA14b",
+                     "children" : [
+                        {
+                           "nodename" : "Rack1",
+                           "objectid" : "5031ad00-012c-0000-0000-IndiaRack14a"
+                        },
+                        {
+                           "nodename" : "CAB-R21-1649",
+                           "objectid" : "5031ad00-012c-0000-0000-India316494b"
+                        },
+                        {
+                           "nodename" : "CAB-R4-1637",
+                           "objectid" : "5031ad00-012c-0000-0000-India16374c"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "nodename" : "2nd floor",
+               "objectid" : "5031ad00-012c-0000-0000-India0012303",
+               "children" : [
+                  {
+                     "nodename" : "Room1",
+                     "objectid" : "5031ad00-012c-0000-0000-India014564"
+                  }
+               ]
+            }
+         ]
+      }
+	  
+	 ]
+	   
+   }   
+   ]
+}

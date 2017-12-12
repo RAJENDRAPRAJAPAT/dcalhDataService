@@ -11,4 +11,9 @@
     "scripts": {
         "start": "node index.js"
     }
+	 "dependencies": {
+    "documentdb": "^1.6.0"
+  }
 }
+
+
